@@ -34,21 +34,34 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
-To measure IL
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
 
-To measure RTh or RN
+![WhatsApp Image 2025-10-24 at 18 10 06_231b3578](https://github.com/user-attachments/assets/bb77d28f-dc37-4983-9abc-ee4c49abff3c)
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
+**THEORITICAL CALCULATION**
 
-To measure VTh or Voc
 
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
 
-Thevenin’s equivalent circuit
 
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+![WhatsApp Image 2025-10-24 at 18 10 19_ad033dd3](https://github.com/user-attachments/assets/934090f3-81a8-47fa-ac6c-35ce0d550621)
+
+
+
+
+![WhatsApp Image 2025-10-24 at 18 10 23_a0531d98](https://github.com/user-attachments/assets/10d9b9bc-a3e0-46a2-84ee-6ef9f063ad73)
+
+**OBSERVATION**
+
+
+![WhatsApp Image 2025-10-24 at 18 10 24_3394932a](https://github.com/user-attachments/assets/8c769af4-601f-4548-a7d9-253a434a3a7c)
+
+
+![WhatsApp Image 2025-10-24 at 18 10 25_2c8dd742](https://github.com/user-attachments/assets/420157dd-3853-4c85-bd43-9d066ef3c70a)
+
+
+![WhatsApp Image 2025-10-24 at 18 10 25_49d8385a](https://github.com/user-attachments/assets/0c0dbf7d-0884-4f3f-bd87-3ad20fb5b1ca)
+
+
 
 
 **PROCEDURE:**
@@ -76,5 +89,16 @@ Thevenin’s equivalent circuit
 11.	Calculate the IL value using the formula
     Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
     Norton’s Theorem IL = IN * RN / ( RN + RL )
+**MARK SPLITUP**
 
-13.	Theoretically verify the Norton’s theorem.
+
+
+
+![WhatsApp Image 2025-10-24 at 20 27 15_11df1fdc](https://github.com/user-attachments/assets/962b0a1b-3f6c-4494-b45c-ef75a83bef16)
+
+
+
+
+
+**RESULT**
+Theoretically verify the Norton’s theorem.
